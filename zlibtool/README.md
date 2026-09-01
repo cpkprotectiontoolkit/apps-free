@@ -7,7 +7,6 @@ Tool to zlib/unzlib Pro Evolution Soccer compressed files
 ## Build With
 
 * [Qt](https://www.qt.io/download) - The cross-platform SDK used
-* [zlib](http://www.zlib.net) - A massively spiffy yet delicately unobtrusive compression library
 
 Note: If you want a single exe file when building, you need to use a STATIC QT build.
 
